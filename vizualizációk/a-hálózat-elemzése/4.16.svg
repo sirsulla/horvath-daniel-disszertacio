@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="2088.245"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-2088.245117 -499.000000 2088.245117 763.000000" height="763.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="15.0"
+              d="M -1769.688110,-247.876923 L -1628.049194,-177.638092"
+              class="id_39819 id_57625" stroke-opacity="1.0" stroke="#006d5b"/>
+        <path fill="none" stroke-width="1.957143"
+              d="M -1783.910400,-230.526260 L -1613.821777,-10.410645"
+              class="id_39819 id_58890" stroke-opacity="1.0" stroke="#006d5b"/>
+        <path fill="none" stroke-width="1.957143"
+              d="M -1769.715698,-247.821396 L -1206.189331,32.502716"
+              class="id_39819 id_61086" stroke-opacity="1.0" stroke="#2d4957"/>
+        <path fill="none" stroke-width="2.5857143"
+              d="M -1941.374390,192.469604 L -1577.565063,-100.803406"
+              class="id_42438 id_57625" stroke-opacity="1.0" stroke="#006d5b"/>
+        <path fill="none" stroke-width="11.071428"
+              d="M -1574.295776,-150.981705 L -1730.012939,-228.201965"
+              class="id_57625 id_39819" stroke-opacity="1.0" stroke="#006d5b"/>
+        <path fill="none" stroke-width="2.2714286"
+              d="M -1569.512695,-107.294525 L -1934.300781,186.767456"
+              class="id_57625 id_42438" stroke-opacity="1.0" stroke="#006d5b"/>
+        <path fill="none" stroke-width="4.785714"
+              d="M -1609.035034,-4.216005 L -1772.205566,-215.378784"
+              class="id_58890 id_39819" stroke-opacity="1.0" stroke="#006d5b"/>
+        <path fill="none" stroke-width="5.1"
+              d="M -1618.828247,39.189461 L -1918.214111,190.927673"
+              class="id_58890 id_42438" stroke-opacity="1.0" stroke="#006d5b"/>
+        <path fill="none" stroke-width="9.185715"
+              d="M -1577.069702,-9.847515 L -1561.357910,-59.046455"
+              class="id_58890 id_57625" stroke-opacity="1.0" stroke="#006d5b"/>
+        <path fill="none" stroke-width="2.4285715"
+              d="M -1553.635864,31.089495 L -918.990906,174.255554"
+              class="id_58890 id_59671" stroke-opacity="1.0" stroke="#2d4957"/>
+        <path fill="none" stroke-width="4.157143"
+              d="M -1552.889648,26.170506 L -1220.710571,52.544662"
+              class="id_58890 id_61086" stroke-opacity="1.0" stroke="#2d4957"/>
+        <path fill="none" stroke-width="1.8000001"
+              d="M -1557.314697,6.201786 L -1254.646484,-165.242004"
+              class="id_58890 id_68602" stroke-opacity="1.0" stroke="#006d5b"/>
+        <path fill="none" stroke-width="1.8000001"
+              d="M -1199.180054,35.989433 L -1763.269287,-244.614639"
+              class="id_61086 id_39819" stroke-opacity="1.0" stroke="#2d4957"/>
+        <path fill="none" stroke-width="2.7428572"
+              d="M -1111.037598,77.852615 L -917.388794,165.544006"
+              class="id_61086 id_59671" stroke-opacity="1.0" stroke="#5a2653"/>
+        <path fill="none" stroke-width="2.5857143"
+              d="M -813.104370,-465.380249 L -1755.255615,-281.641083"
+              class="id_62016 id_39819" stroke-opacity="1.0" stroke="#2d4957"/>
+        <path fill="none" stroke-width="1.8000001"
+              d="M -809.819458,-456.633362 L -1931.369629,194.351379"
+              class="id_62016 id_42438" stroke-opacity="1.0" stroke="#2d4957"/>
+        <path fill="none" stroke-width="1.8000001"
+              d="M -789.383240,-442.882568 L -871.887695,143.957626"
+              class="id_62016 id_59671" stroke-opacity="1.0" stroke="#5a2653"/>
+        <path fill="none" stroke-width="1.8000001"
+              d="M -801.615051,-447.700897 L -1123.372559,11.851429"
+              class="id_62016 id_61086" stroke-opacity="1.0" stroke="#5a2653"/>
+        <path fill="none" stroke-width="1.8000001"
+              d="M -1251.906616,-187.633987 L -1757.887329,-261.795410"
+              class="id_68602 id_39819" stroke-opacity="1.0" stroke="#006d5b"/>
+        <path fill="none" stroke-width="1.8000001"
+              d="M -1248.717529,-169.399994 L -1930.523438,195.868073"
+              class="id_68602 id_42438" stroke-opacity="1.0" stroke="#006d5b"/>
+        <path fill="none" stroke-width="2.1142857"
+              d="M -1251.847046,-178.677551 L -1489.185425,-140.658508"
+              class="id_68602 id_57625" stroke-opacity="1.0" stroke="#006d5b"/>
+        <path fill="none" stroke-width="1.957143"
+              d="M -1202.437866,-161.833679 L -905.340576,153.990021"
+              class="id_68602 id_59671" stroke-opacity="1.0" stroke="#2d4957"/>
+        <path fill="none" stroke-width="1.957143"
+              d="M -1214.747559,-154.894165 L -1170.692383,3.175900"
+              class="id_68602 id_61086" stroke-opacity="1.0" stroke="#2d4957"/>
+        <path fill="none" stroke-width="1.8000001"
+              d="M -1197.994141,-199.577209 L -815.011841,-451.345520"
+              class="id_68602 id_62016" stroke-opacity="1.0" stroke="#2d4957"/>
+    </g>
+    <g id="arrows">
+        <polyline fill="#006d5b" fill-opacity="1.0" class="id_39819 id_57625"
+                  points="-1574.295776,-150.981705 -1641.377441,-150.761353 -1614.720947,-204.514832"
+                  stroke="none"/>
+        <polyline fill="#006d5b" fill-opacity="1.0" class="id_39819 id_58890"
+                  points="-1609.035034,-4.216005 -1616.919067,-8.017271 -1610.724487,-12.804018"
+                  stroke="none"/>
+        <polyline fill="#2d4957" fill-opacity="1.0" class="id_39819 id_61086"
+                  points="-1199.180054,35.989429 -1207.932739,36.007332 -1204.445923,28.998100"
+                  stroke="none"/>
+        <polyline fill="#006d5b" fill-opacity="1.0" class="id_42438 id_57625"
+                  points="-1569.512695,-107.294525 -1574.319458,-96.777237 -1580.810669,-104.829575"
+                  stroke="none"/>
+        <polyline fill="#006d5b" fill-opacity="1.0" class="id_57625 id_39819"
+                  points="-1769.688110,-247.876923 -1720.175415,-248.039566 -1739.850464,-208.364365"
+                  stroke="none"/>
+        <polyline fill="#006d5b" fill-opacity="1.0" class="id_57625 id_42438"
+                  points="-1941.374390,192.469604 -1937.151855,183.230652 -1931.449707,190.304260"
+                  stroke="none"/>
+        <polyline fill="#006d5b" fill-opacity="1.0" class="id_58890 id_39819"
+                  points="-1783.910400,-230.526260 -1764.631836,-221.231201 -1779.779297,-209.526367"
+                  stroke="none"/>
+        <polyline fill="#006d5b" fill-opacity="1.0" class="id_58890 id_42438"
+                  points="-1936.410400,200.150146 -1922.825317,181.829514 -1913.602905,200.025833"
+                  stroke="none"/>
+        <polyline fill="#006d5b" fill-opacity="1.0" class="id_58890 id_57625"
+                  points="-1550.180176,-94.047821 -1543.857178,-53.457588 -1578.858643,-64.635323"
+                  stroke="none"/>
+        <polyline fill="#2d4957" fill-opacity="1.0" class="id_58890 id_59671"
+                  points="-909.514709,176.393219 -920.059753,178.993637 -917.922058,169.517471"
+                  stroke="none"/>
+        <polyline fill="#2d4957" fill-opacity="1.0" class="id_58890 id_61086"
+                  points="-1204.134155,53.860783 -1221.368652,60.832867 -1220.052490,44.256458"
+                  stroke="none"/>
+        <polyline fill="#006d5b" fill-opacity="1.0" class="id_58890 id_68602"
+                  points="-1248.381714,-168.790634 -1252.872192,-162.109619 -1256.420776,-168.374390"
+                  stroke="none"/>
+        <polyline fill="#2d4957" fill-opacity="1.0" class="id_61086 id_39819"
+                  points="-1769.715698,-247.821396 -1761.665894,-247.837860 -1764.872681,-241.391418"
+                  stroke="none"/>
+        <polyline fill="#5a2653" fill-opacity="1.0" class="id_61086 id_59671"
+                  points="-907.394348,170.069870 -919.651733,170.541229 -915.125854,160.546783"
+                  stroke="none"/>
+        <polyline fill="#2d4957" fill-opacity="1.0" class="id_62016 id_39819"
+                  points="-1765.407227,-279.661316 -1756.245483,-286.716888 -1754.265747,-276.565277"
+                  stroke="none"/>
+        <polyline fill="#2d4957" fill-opacity="1.0" class="id_62016 id_42438"
+                  points="-1937.596680,197.965775 -1933.176880,191.237854 -1929.562378,197.464905"
+                  stroke="none"/>
+        <polyline fill="#5a2653" fill-opacity="1.0" class="id_62016 id_59671"
+                  points="-872.890137,151.087509 -875.452637,143.456421 -868.322754,144.458832"
+                  stroke="none"/>
+        <polyline fill="#5a2653" fill-opacity="1.0" class="id_62016 id_61086"
+                  points="-1127.502075,17.749470 -1126.321533,9.786659 -1120.423584,13.916199"
+                  stroke="none"/>
+        <polyline fill="#006d5b" fill-opacity="1.0" class="id_68602 id_39819"
+                  points="-1765.011230,-262.839569 -1757.365234,-265.357361 -1758.409424,-258.233459"
+                  stroke="none"/>
+        <polyline fill="#006d5b" fill-opacity="1.0" class="id_68602 id_42438"
+                  points="-1936.870117,199.268173 -1932.223511,192.694778 -1928.823364,199.041367"
+                  stroke="none"/>
+        <polyline fill="#006d5b" fill-opacity="1.0" class="id_68602 id_57625"
+                  points="-1497.536133,-139.320816 -1489.854248,-144.833847 -1488.516602,-136.483170"
+                  stroke="none"/>
+        <polyline fill="#2d4957" fill-opacity="1.0" class="id_68602 id_59671"
+                  points="-899.976563,159.692123 -908.191650,156.672028 -902.489502,151.308014"
+                  stroke="none"/>
+        <polyline fill="#2d4957" fill-opacity="1.0" class="id_68602 id_61086"
+                  points="-1168.590576,10.717060 -1174.463013,4.226786 -1166.921753,2.125013"
+                  stroke="none"/>
+        <polyline fill="#2d4957" fill-opacity="1.0" class="id_68602 id_62016"
+                  points="-808.995483,-455.300629 -813.034302,-448.337311 -816.989380,-454.353729"
+                  stroke="none"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#006d5b" r="48.5" cx="-1814.4827"
+                class="id_39819" cy="-270.09058" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#006d5b" r="42.26051" cx="-1975.4437"
+                class="id_42438" cy="219.93347" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#006d5b" r="39.257988" cx="-1537.781"
+                class="id_57625" cy="-132.87402" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#5a2653" r="47.297478" cx="-1155.4897"
+                class="id_61086" cy="57.723022" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#5a2653" r="31.355751" cx="-877.46436"
+                class="id_59671" cy="183.62329" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#006d5b" r="33.409584" cx="-1587.6897"
+                class="id_58890" cy="23.40747" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#5a2653" r="26.662697" cx="-785.4624"
+                class="id_62016" cy="-470.771" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#006d5b" r="28.04039" cx="-1222.6785"
+                class="id_68602" cy="-183.35004" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+    </g>
+    <g id="node-labels-outline">
+        <text stroke="#ffffff" stroke-linecap="round"
+              style="text-anchor: middle;" stroke-opacity="0.8" fill="none"
+              font-weight="bold" stroke-width="10.9375" font-family="Arial"
+              class="id_39819" x="-1814.4827" stroke-linejoin="round"
+              y="-258.5293" font-size="35">
+            Ady Endre
+        </text>
+        <text stroke="#ffffff" stroke-linecap="round"
+              style="text-anchor: middle;" stroke-opacity="0.8" fill="none"
+              font-weight="bold" stroke-width="10.9375" font-family="Arial"
+              class="id_42438" x="-1975.4437" stroke-linejoin="round"
+              y="231.49475" font-size="35">
+            Babits Mihály
+        </text>
+        <text stroke="#ffffff" stroke-linecap="round"
+              style="text-anchor: middle;" stroke-opacity="0.8" fill="none"
+              font-weight="bold" stroke-width="10.9375" font-family="Arial"
+              class="id_57625" x="-1537.781" stroke-linejoin="round"
+              y="-121.312744" font-size="35">
+            Hatvany Lajos
+        </text>
+        <text stroke="#ffffff" stroke-linecap="round"
+              style="text-anchor: middle;" stroke-opacity="0.8" fill="none"
+              font-weight="bold" stroke-width="10.9375" font-family="Arial"
+              class="id_61086" x="-1155.4897" stroke-linejoin="round"
+              y="69.2843" font-size="35">
+            Kiss József
+        </text>
+        <text stroke="#ffffff" stroke-linecap="round"
+              style="text-anchor: middle;" stroke-opacity="0.8" fill="none"
+              font-weight="bold" stroke-width="10.9375" font-family="Arial"
+              class="id_59671" x="-877.46436" stroke-linejoin="round"
+              y="195.18457" font-size="35">
+            Justh Zsigmond
+        </text>
+        <text stroke="#ffffff" stroke-linecap="round"
+              style="text-anchor: middle;" stroke-opacity="0.8" fill="none"
+              font-weight="bold" stroke-width="10.9375" font-family="Arial"
+              class="id_58890" x="-1587.6897" stroke-linejoin="round"
+              y="34.96875" font-size="35">
+            Ignotus
+        </text>
+        <text stroke="#ffffff" stroke-linecap="round"
+              style="text-anchor: middle;" stroke-opacity="0.8" fill="none"
+              font-weight="bold" stroke-width="10.9375" font-family="Arial"
+              class="id_62016" x="-785.4624" stroke-linejoin="round"
+              y="-459.20972" font-size="35">
+            Kozma Andor
+        </text>
+        <text stroke="#ffffff" stroke-linecap="round"
+              style="text-anchor: middle;" stroke-opacity="0.8" fill="none"
+              font-weight="bold" stroke-width="10.9375" font-family="Arial"
+              class="id_68602" x="-1222.6785" stroke-linejoin="round"
+              y="-171.78876" font-size="35">
+            Rákosi Jenő
+        </text>
+    </g>
+    <g id="node-labels">
+        <text font-size="35" x="-1814.4827" y="-258.5293" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_39819" font-weight="bold">
+            Ady Endre
+        </text>
+        <text font-size="35" x="-1975.4437" y="231.49475" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_42438" font-weight="bold">
+            Babits Mihály
+        </text>
+        <text font-size="35" x="-1537.781" y="-121.312744" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_57625" font-weight="bold">
+            Hatvany Lajos
+        </text>
+        <text font-size="35" x="-1155.4897" y="69.2843" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_61086" font-weight="bold">
+            Kiss József
+        </text>
+        <text font-size="35" x="-877.46436" y="195.18457" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_59671" font-weight="bold">
+            Justh Zsigmond
+        </text>
+        <text font-size="35" x="-1587.6897" y="34.96875" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_58890" font-weight="bold">
+            Ignotus
+        </text>
+        <text font-size="35" x="-785.4624" y="-459.20972" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_62016" font-weight="bold">
+            Kozma Andor
+        </text>
+        <text font-size="35" x="-1222.6785" y="-171.78876" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_68602" font-weight="bold">
+            Rákosi Jenő
+        </text>
+    </g>
+    <g id="edge-labels">
+        <text font-size="21" x="-1639.4265" y="-176.41043" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_68"
+              font-weight="bold">
+            85.0
+        </text>
+        <text font-size="21" x="-1667.3268" y="-72.783066" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_69"
+              font-weight="bold">
+            2.0
+        </text>
+        <text font-size="21" x="-1389.3586" y="-51.74451" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_72"
+              font-weight="bold">
+            2.0
+        </text>
+        <text font-size="21" x="-1693.4667" y="-0.50346756" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_145"
+              font-weight="bold">
+            6.0
+        </text>
+        <text font-size="21" x="-1704.5573" y="-208.70883" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_293"
+              font-weight="bold">
+            60.0
+        </text>
+        <text font-size="21" x="-1817.4205" y="99.41791" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_295"
+              font-weight="bold">
+            4.0
+        </text>
+        <text font-size="21" x="-1725.6187" y="-148.21985" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_318"
+              font-weight="bold">
+            20.0
+        </text>
+        <text font-size="21" x="-1830.5497" y="153.36627" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_321"
+              font-weight="bold">
+            22.0
+        </text>
+        <text font-size="21" x="-1559.1433" y="-59.111393" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_326"
+              font-weight="bold">
+            48.0
+        </text>
+        <text font-size="21" x="-1124.2218" y="134.82831" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_327"
+              font-weight="bold">
+            5.0
+        </text>
+        <text font-size="21" x="-1320.386" y="51.500362" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_328"
+              font-weight="bold">
+            16.0
+        </text>
+        <text font-size="21" x="-1351.3594" y="-103.59015" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_333"
+              font-weight="bold">
+            1.0
+        </text>
+        <text font-size="21" x="-1579.5371" y="-146.34811" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_385"
+              font-weight="bold">
+            1.0
+        </text>
+        <text font-size="21" x="-975.27545" y="146.20045" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_397"
+              font-weight="bold">
+            7.0
+        </text>
+        <text font-size="21" x="-1447.9729" y="-334.69797" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_447"
+              font-weight="bold">
+            6.0
+        </text>
+        <text font-size="21" x="-1561.6709" y="-13.364277" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_450"
+              font-weight="bold">
+            1.0
+        </text>
+        <text font-size="21" x="-845.0545" y="-40.032887" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_458"
+              font-weight="bold">
+            1.0
+        </text>
+        <text font-size="21" x="-1018.87305" y="-130.53102" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_459"
+              font-weight="bold">
+            1.0
+        </text>
+        <text font-size="21" x="-1593.9763" y="-230.90135" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_586"
+              font-weight="bold">
+            1.0
+        </text>
+        <text font-size="21" x="-1707.4858" y="83.24846" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_587"
+              font-weight="bold">
+            1.0
+        </text>
+        <text font-size="21" x="-1415.6398" y="-145.57005" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_588"
+              font-weight="bold">
+            3.0
+        </text>
+        <text font-size="21" x="-1000.797" y="59.38653" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_589"
+              font-weight="bold">
+            2.0
+        </text>
+        <text font-size="21" x="-1183.9763" y="-37.616993" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_590"
+              font-weight="bold">
+            2.0
+        </text>
+        <text font-size="21" x="-938.66174" y="-363.1898" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_591"
+              font-weight="bold">
+            1.0
+        </text>
+    </g>
+</svg>

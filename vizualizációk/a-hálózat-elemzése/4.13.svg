@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="2070.6917"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-2070.691650 0.000000 2070.691650 494.000000" height="494.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="12.0"
+              d="M -731.525574,115.043732 L -804.285767,149.235184"
+              class="id_49034 id_59671" stroke-opacity="1.0" stroke="#050505"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1069.085083,441.829712 L -729.314575,125.368111"
+              class="id_57957 id_49034" stroke-opacity="1.0" stroke="#050505"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -1072.891235,438.370789 L -902.331909,216.039276"
+              class="id_57957 id_59671" stroke-opacity="1.0" stroke="#050505"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1096.519897,432.359344 L -1148.396118,102.789047"
+              class="id_57957 id_61086" stroke-opacity="1.0" stroke="#050505"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -1119.200928,448.745728 L -1662.273560,169.028824"
+              class="id_57957 id_65715" stroke-opacity="1.0" stroke="#bd0023"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1119.404175,449.147583 L -1218.056030,400.140320"
+              class="id_57957 id_81969" stroke-opacity="1.0" stroke="#050505"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1149.018066,98.837692 L -1097.141846,428.407990"
+              class="id_61086 id_57957" stroke-opacity="1.0" stroke="#050505"/>
+        <path fill="none" stroke-width="7.0"
+              d="M -1117.575073,74.892181 L -932.901001,158.519501"
+              class="id_61086 id_59671" stroke-opacity="1.0" stroke="#050505"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -1193.366943,74.974464 L -1877.514282,386.573792"
+              class="id_61086 id_61720" stroke-opacity="1.0" stroke="#bd0023"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1196.557373,64.486610 L -1661.719116,141.095856"
+              class="id_61086 id_65715" stroke-opacity="1.0" stroke="#bd0023"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -1166.014282,97.991280 L -1231.114502,347.072632"
+              class="id_61086 id_81969" stroke-opacity="1.0" stroke="#050505"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1881.789551,406.583130 L -1126.544556,460.421234"
+              class="id_61720 id_57957" stroke-opacity="1.0" stroke="#bd0023"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1884.794678,389.889709 L -1197.007202,76.632431"
+              class="id_61720 id_61086" stroke-opacity="1.0" stroke="#bd0023"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1881.712036,403.331360 L -1268.495239,388.925446"
+              class="id_61720 id_81969" stroke-opacity="1.0" stroke="#bd0023"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -1669.385620,165.365662 L -1126.312988,445.082550"
+              class="id_65715 id_57957" stroke-opacity="1.0" stroke="#bd0023"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -1665.666016,141.745880 L -1204.451050,65.786652"
+              class="id_65715 id_61086" stroke-opacity="1.0" stroke="#bd0023"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1222.174072,377.227142 L -909.598694,201.671326"
+              class="id_81969 id_59671" stroke-opacity="1.0" stroke="#050505"/>
+    </g>
+    <g id="arrows">
+        <polyline fill="#050505" fill-opacity="1.0" class="id_49034 id_59671"
+                  points="-847.728210,169.649673 -814.493042,127.513947 -794.078491,170.956421"
+                  stroke="none"/>
+        <polyline fill="#050505" fill-opacity="1.0" class="id_57957 id_49034"
+                  points="-726.387512,122.641861 -727.951477,126.831635 -730.677673,123.904587"
+                  stroke="none"/>
+        <polyline fill="#050505" fill-opacity="1.0" class="id_57957 id_59671"
+                  points="-897.462585,209.691864 -899.158203,218.473953 -905.505615,213.604599"
+                  stroke="none"/>
+        <polyline fill="#050505" fill-opacity="1.0" class="id_57957 id_61086"
+                  points="-1149.018066,98.837692 -1146.420410,102.478065 -1150.371826,103.100029"
+                  stroke="none"/>
+        <polyline fill="#bd0023" fill-opacity="1.0" class="id_57957 id_65715"
+                  points="-1669.385620,165.365662 -1660.442017,165.472794 -1664.105103,172.584854"
+                  stroke="none"/>
+        <polyline fill="#050505" fill-opacity="1.0" class="id_57957 id_81969"
+                  points="-1221.638428,398.360748 -1217.166260,398.349152 -1218.945801,401.931488"
+                  stroke="none"/>
+        <polyline fill="#050505" fill-opacity="1.0" class="id_61086 id_57957"
+                  points="-1096.519897,432.359344 -1099.117554,428.718964 -1095.166138,428.097015"
+                  stroke="none"/>
+        <polyline fill="#050505" fill-opacity="1.0" class="id_61086 id_59671"
+                  points="-907.394348,170.069870 -938.676208,171.272827 -927.125793,145.766174"
+                  stroke="none"/>
+        <polyline fill="#bd0023" fill-opacity="1.0" class="id_61086 id_61720"
+                  points="-1884.794678,389.889709 -1879.172241,382.933563 -1875.856323,390.214020"
+                  stroke="none"/>
+        <polyline fill="#bd0023" fill-opacity="1.0" class="id_61086 id_65715"
+                  points="-1665.666016,141.745880 -1662.044067,139.122437 -1661.394165,143.069275"
+                  stroke="none"/>
+        <polyline fill="#050505" fill-opacity="1.0" class="id_61086 id_81969"
+                  points="-1236.171875,366.422638 -1240.789551,344.543945 -1221.439453,349.601318"
+                  stroke="none"/>
+        <polyline fill="#bd0023" fill-opacity="1.0" class="id_61720 id_57957"
+                  points="-1122.554688,460.705658 -1126.686768,462.416168 -1126.402344,458.426300"
+                  stroke="none"/>
+        <polyline fill="#bd0023" fill-opacity="1.0" class="id_61720 id_61086"
+                  points="-1193.366943,74.974464 -1196.178223,78.452538 -1197.836182,74.812325"
+                  stroke="none"/>
+        <polyline fill="#bd0023" fill-opacity="1.0" class="id_61720 id_81969"
+                  points="-1264.496338,388.831482 -1268.448242,390.924896 -1268.542236,386.925995"
+                  stroke="none"/>
+        <polyline fill="#bd0023" fill-opacity="1.0" class="id_65715 id_57957"
+                  points="-1119.200928,448.745728 -1128.144531,448.638580 -1124.481445,441.526520"
+                  stroke="none"/>
+        <polyline fill="#bd0023" fill-opacity="1.0" class="id_65715 id_61086"
+                  points="-1196.557373,64.486610 -1203.801025,69.733482 -1205.101074,61.839821"
+                  stroke="none"/>
+        <polyline fill="#050505" fill-opacity="1.0" class="id_81969 id_59671"
+                  points="-906.111084,199.712540 -908.619324,203.415115 -910.578064,199.927536"
+                  stroke="none"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#a60c07" r="40.120895" cx="-1155.4897"
+                class="id_61086" cy="57.723022" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#ca706e" r="31.355751" cx="-877.46436"
+                class="id_59671" cy="183.62329" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#b53733" r="36.5719" cx="-1703.2318"
+                class="id_65715" cy="147.93274" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#ce7a77" r="32.877274" cx="-1916.0798"
+                class="id_61720" cy="404.13873" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#d07f7c" r="21.112667" cx="-1241.8899"
+                class="id_81969" cy="388.3004" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#eed2d1" r="28.150158" cx="-704.6907"
+                class="id_49034" cy="102.43347" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+        <circle fill-opacity="1.0" fill="#dca09e" r="29.42103" cx="-1091.7119"
+                class="id_57957" cy="462.9043" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="3.0"/>
+    </g>
+    <g id="node-labels-outline">
+        <text stroke="#ffffff" stroke-linecap="round"
+              style="text-anchor: middle;" stroke-opacity="0.8" fill="none"
+              font-weight="bold" stroke-width="10.9375" font-family="Arial"
+              class="id_61086" x="-1155.4897" stroke-linejoin="round"
+              y="69.2843" font-size="35">
+            Kiss József
+        </text>
+        <text stroke="#ffffff" stroke-linecap="round"
+              style="text-anchor: middle;" stroke-opacity="0.8" fill="none"
+              font-weight="bold" stroke-width="10.9375" font-family="Arial"
+              class="id_59671" x="-877.46436" stroke-linejoin="round"
+              y="195.18457" font-size="35">
+            Justh Zsigmond
+        </text>
+        <text stroke="#ffffff" stroke-linecap="round"
+              style="text-anchor: middle;" stroke-opacity="0.8" fill="none"
+              font-weight="bold" stroke-width="10.9375" font-family="Arial"
+              class="id_65715" x="-1703.2318" stroke-linejoin="round"
+              y="159.49402" font-size="35">
+            Móricz Zsigmond
+        </text>
+        <text stroke="#ffffff" stroke-linecap="round"
+              style="text-anchor: middle;" stroke-opacity="0.8" fill="none"
+              font-weight="bold" stroke-width="10.9375" font-family="Arial"
+              class="id_61720" x="-1916.0798" stroke-linejoin="round" y="415.7"
+              font-size="35">
+            Kosztolányi Dezső
+        </text>
+        <text stroke="#ffffff" stroke-linecap="round"
+              style="text-anchor: middle;" stroke-opacity="0.8" fill="none"
+              font-weight="bold" stroke-width="10.9375" font-family="Arial"
+              class="id_81969" x="-1241.8899" stroke-linejoin="round"
+              y="399.8617" font-size="35">
+            Heltai Jenő
+        </text>
+        <text stroke="#ffffff" stroke-linecap="round"
+              style="text-anchor: middle;" stroke-opacity="0.8" fill="none"
+              font-weight="bold" stroke-width="10.9375" font-family="Arial"
+              class="id_49034" x="-704.6907" stroke-linejoin="round"
+              y="113.99475" font-size="35">
+            Bródy Sándor
+        </text>
+        <text stroke="#ffffff" stroke-linecap="round"
+              style="text-anchor: middle;" stroke-opacity="0.8" fill="none"
+              font-weight="bold" stroke-width="10.9375" font-family="Arial"
+              class="id_57957" x="-1091.7119" stroke-linejoin="round"
+              y="474.46558" font-size="35">
+            Herczeg Ferenc
+        </text>
+    </g>
+    <g id="node-labels">
+        <text font-size="35" x="-1155.4897" y="69.2843" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_61086" font-weight="bold">
+            Kiss József
+        </text>
+        <text font-size="35" x="-877.46436" y="195.18457" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_59671" font-weight="bold">
+            Justh Zsigmond
+        </text>
+        <text font-size="35" x="-1703.2318" y="159.49402" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_65715" font-weight="bold">
+            Móricz Zsigmond
+        </text>
+        <text font-size="35" x="-1916.0798" y="415.7" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_61720" font-weight="bold">
+            Kosztolányi Dezső
+        </text>
+        <text font-size="35" x="-1241.8899" y="399.8617" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_81969" font-weight="bold">
+            Heltai Jenő
+        </text>
+        <text font-size="35" x="-704.6907" y="113.99475" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_49034" font-weight="bold">
+            Bródy Sándor
+        </text>
+        <text font-size="35" x="-1091.7119" y="474.46558" fill-opacity="1.0"
+              fill="#000000" font-family="Arial" style="text-anchor: middle;"
+              class="id_57957" font-weight="bold">
+            Herczeg Ferenc
+        </text>
+    </g>
+    <g id="edge-labels-outline">
+        <text stroke="#ffffff" stroke-linecap="round"
+              style="text-anchor: middle;" stroke-opacity="0.8" fill="none"
+              font-weight="bold" stroke-width="7.5px" font-family="Arial"
+              class="id_205" x="-808.994" stroke-linejoin="round" y="159.47867"
+              font-size="24">
+            12.0
+        </text>
+        <text stroke="#ffffff" stroke-linecap="round"
+              style="text-anchor: middle;" stroke-opacity="0.8" fill="none"
+              font-weight="bold" stroke-width="7.5px" font-family="Arial"
+              class="id_305" x="-840.62006" stroke-linejoin="round"
+              y="237.06877" font-size="24">
+            1.0
+        </text>
+        <text stroke="#ffffff" stroke-linecap="round"
+              style="text-anchor: middle;" stroke-opacity="0.8" fill="none"
+              font-weight="bold" stroke-width="7.5px" font-family="Arial"
+              class="id_306" x="-955.93884" stroke-linejoin="round" y="293.9491"
+              font-size="24">
+            2.0
+        </text>
+        <text stroke="#ffffff" stroke-linecap="round"
+              style="text-anchor: middle;" stroke-opacity="0.8" fill="none"
+              font-weight="bold" stroke-width="7.5px" font-family="Arial"
+              class="id_307" x="-1131.5187" stroke-linejoin="round"
+              y="218.04254" font-size="24">
+            1.0
+        </text>
+        <text stroke="#ffffff" stroke-linecap="round"
+              style="text-anchor: middle;" stroke-opacity="0.8" fill="none"
+              font-weight="bold" stroke-width="7.5px" font-family="Arial"
+              class="id_308" x="-1485.9907" stroke-linejoin="round"
+              y="267.85663" font-size="24">
+            2.0
+        </text>
+        <text stroke="#ffffff" stroke-linecap="round"
+              style="text-anchor: middle;" stroke-opacity="0.8" fill="none"
+              font-weight="bold" stroke-width="7.5px" font-family="Arial"
+              class="id_309" x="-1187.5603" stroke-linejoin="round"
+              y="423.32068" font-size="24">
+            1.0
+        </text>
+        <text stroke="#ffffff" stroke-linecap="round"
+              style="text-anchor: middle;" stroke-opacity="0.8" fill="none"
+              font-weight="bold" stroke-width="7.5px" font-family="Arial"
+              class="id_395" x="-1114.0193" stroke-linejoin="round"
+              y="329.21643" font-size="24">
+            1.0
+        </text>
+        <text stroke="#ffffff" stroke-linecap="round"
+              style="text-anchor: middle;" stroke-opacity="0.8" fill="none"
+              font-weight="bold" stroke-width="7.5px" font-family="Arial"
+              class="id_397" x="-977.4546" stroke-linejoin="round" y="146.37492"
+              font-size="24">
+            7.0
+        </text>
+        <text stroke="#ffffff" stroke-linecap="round"
+              style="text-anchor: middle;" stroke-opacity="0.8" fill="none"
+              font-weight="bold" stroke-width="7.5px" font-family="Arial"
+              class="id_398" x="-1654.3187" stroke-linejoin="round" y="292.9489"
+              font-size="24">
+            2.0
+        </text>
+        <text stroke="#ffffff" stroke-linecap="round"
+              style="text-anchor: middle;" stroke-opacity="0.8" fill="none"
+              font-weight="bold" stroke-width="7.5px" font-family="Arial"
+              class="id_400" x="-1509.2964" stroke-linejoin="round"
+              y="124.02375" font-size="24">
+            1.0
+        </text>
+        <text stroke="#ffffff" stroke-linecap="round"
+              style="text-anchor: middle;" stroke-opacity="0.8" fill="none"
+              font-weight="bold" stroke-width="7.5px" font-family="Arial"
+              class="id_411" x="-1212.786" stroke-linejoin="round" y="284.9765"
+              font-size="24">
+            5.0
+        </text>
+        <text stroke="#ffffff" stroke-linecap="round"
+              style="text-anchor: middle;" stroke-opacity="0.8" fill="none"
+              font-weight="bold" stroke-width="7.5px" font-family="Arial"
+              class="id_431" x="-1375.6329" stroke-linejoin="round" y="450.6958"
+              font-size="24">
+            1.0
+        </text>
+        <text stroke="#ffffff" stroke-linecap="round"
+              style="text-anchor: middle;" stroke-opacity="0.8" fill="none"
+              font-weight="bold" stroke-width="7.5px" font-family="Arial"
+              class="id_434" x="-1423.8429" stroke-linejoin="round"
+              y="187.97716" font-size="24">
+            1.0
+        </text>
+        <text stroke="#ffffff" stroke-linecap="round"
+              style="text-anchor: middle;" stroke-opacity="0.8" fill="none"
+              font-weight="bold" stroke-width="7.5px" font-family="Arial"
+              class="id_440" x="-1470.2349" stroke-linejoin="round"
+              y="401.69574" font-size="24">
+            1.0
+        </text>
+        <text stroke="#ffffff" stroke-linecap="round"
+              style="text-anchor: middle;" stroke-opacity="0.8" fill="none"
+              font-weight="bold" stroke-width="7.5px" font-family="Arial"
+              class="id_536" x="-1302.5958" stroke-linejoin="round"
+              y="362.31665" font-size="24">
+            2.0
+        </text>
+        <text stroke="#ffffff" stroke-linecap="round"
+              style="text-anchor: middle;" stroke-opacity="0.8" fill="none"
+              font-weight="bold" stroke-width="7.5px" font-family="Arial"
+              class="id_537" x="-1352.927" stroke-linejoin="round" y="98.27066"
+              font-size="24">
+            2.0
+        </text>
+        <text stroke="#ffffff" stroke-linecap="round"
+              style="text-anchor: middle;" stroke-opacity="0.8" fill="none"
+              font-weight="bold" stroke-width="7.5px" font-family="Arial"
+              class="id_751" x="-1011.4654" stroke-linejoin="round"
+              y="266.91504" font-size="24">
+            1.0
+        </text>
+    </g>
+    <g id="edge-labels">
+        <text font-size="24" x="-808.994" y="159.47867" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_205"
+              font-weight="bold">
+            12.0
+        </text>
+        <text font-size="24" x="-840.62006" y="237.06877" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_305"
+              font-weight="bold">
+            1.0
+        </text>
+        <text font-size="24" x="-955.93884" y="293.9491" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_306"
+              font-weight="bold">
+            2.0
+        </text>
+        <text font-size="24" x="-1131.5187" y="218.04254" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_307"
+              font-weight="bold">
+            1.0
+        </text>
+        <text font-size="24" x="-1485.9907" y="267.85663" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_308"
+              font-weight="bold">
+            2.0
+        </text>
+        <text font-size="24" x="-1187.5603" y="423.32068" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_309"
+              font-weight="bold">
+            1.0
+        </text>
+        <text font-size="24" x="-1114.0193" y="329.21643" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_395"
+              font-weight="bold">
+            1.0
+        </text>
+        <text font-size="24" x="-977.4546" y="146.37492" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_397"
+              font-weight="bold">
+            7.0
+        </text>
+        <text font-size="24" x="-1654.3187" y="292.9489" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_398"
+              font-weight="bold">
+            2.0
+        </text>
+        <text font-size="24" x="-1509.2964" y="124.02375" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_400"
+              font-weight="bold">
+            1.0
+        </text>
+        <text font-size="24" x="-1212.786" y="284.9765" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_411"
+              font-weight="bold">
+            5.0
+        </text>
+        <text font-size="24" x="-1375.6329" y="450.6958" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_431"
+              font-weight="bold">
+            1.0
+        </text>
+        <text font-size="24" x="-1423.8429" y="187.97716" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_434"
+              font-weight="bold">
+            1.0
+        </text>
+        <text font-size="24" x="-1470.2349" y="401.69574" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_440"
+              font-weight="bold">
+            1.0
+        </text>
+        <text font-size="24" x="-1302.5958" y="362.31665" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_536"
+              font-weight="bold">
+            2.0
+        </text>
+        <text font-size="24" x="-1352.927" y="98.27066" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_537"
+              font-weight="bold">
+            2.0
+        </text>
+        <text font-size="24" x="-1011.4654" y="266.91504" fill="#000000"
+              style="text-anchor: middle;" font-family="Arial" class="id_751"
+              font-weight="bold">
+            1.0
+        </text>
+    </g>
+</svg>
