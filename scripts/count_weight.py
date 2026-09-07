@@ -1,3 +1,11 @@
+"""
+A script az edges.xlsx és a nodes.xlsx fájlokból olvassa be a hálózat éleit és csomópontjait.
+Numerikus formára alakítja az élek és csomópontok súlyait, az üres vagy hibás értékeket
+pedig nullával helyettesíti. Ezután minden él súlyát hozzáadja a hozzá tartozó forrás- és
+célcsomópont súlyához. A végén kiírja az eredmény első sorait és a súlyok összegét.
+Az utolsó, kommentben elhelyezett sor segítségével az eredmény igény szerint új Excel-fájlba is exportálható.
+"""
+
 import pandas as pd
 
 df_edges = pd.read_excel('edges.xlsx')
