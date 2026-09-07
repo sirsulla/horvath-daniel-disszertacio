@@ -1,8 +1,8 @@
 A repozitórium a "Közgyűjteményi kulturális adatok modellezése, vizualizációja és elemzése digitális bölcsészeti megközelítésben" c. doktori disszertáció adatvizualizációit, és az adatvizualizációk előállításához szükséges, adatokkal kapcsolatos műveletek scriptjeit tartalmazza.
 
-Szerző: Horváth Dániel
-Egyetem: Moholy-Nagy Művészeti Egyetem, Doktori Iskola, Művészettudomány (designelmélet) PhD, Designkltúra-tudományi tagozat
-Hely és idő: Budapest, 2026. augusztus
+Szerző: Horváth Dániel  
+Egyetem: Moholy-Nagy Művészeti Egyetem, Doktori Iskola, Művészettudomány (designelmélet) PhD, Designkltúra-tudományi tagozat  
+Hely és idő: Budapest, 2026. augusztus  
 Témavezetők: Ruttkay Zsófia PhD habil., Maróthy Szilvia PhD
 
 A repozitórium az alábbi szerkezetben tárolja a doktori kutatás mellékleteként közölt fájlokat.
